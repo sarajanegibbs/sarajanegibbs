@@ -1,0 +1,188 @@
+@media ( min-width: 980px ) {
+
+a.brand-logo{
+margin-left: 20px;
+}
+.main{
+font-size: 40px;
+}
+
+.main-2{
+  font-size: 35px;
+}
+
+.center{
+  max-width: 550px;
+}
+}
+
+nav ul a {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+
+.main{
+weight: bold;
+color: #000000;
+}
+
+.main-2{
+  weight: bold;
+  color: #000000;
+}
+
+.main-p{
+  color: #000000;
+  font-size: 18px;
+
+}
+
+div.titleOuter {
+  position: relative;
+  height: 500px;
+}
+
+div.center {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+  color: #00BFA5;
+}
+
+.white-text{
+  font-size: 30px;
+}
+
+#white-text{
+  font-size: 14px;
+  color: white;
+}
+
+
+.link{
+  color:white;
+  font-size: 20px;
+}
+
+.card-panel{
+height: 180px;
+}
+
+.contact{
+  display: inline-block;
+}
+
+.me{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 50px;
+  padding-left: 20px;
+}
+
+.contact-intro{
+  font-size: 16px;
+}
+
+.title{
+  font-size: 20px;
+  font-weight: 600;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+
+}
+
+.social_links{
+  display: inline-block;
+}
+
+.linked{
+    color: #007AB6;
+}
+
+.twit{
+  color: #1DA1F2;
+}
+
+.med{
+  color: #00AB6C;
+}
+
+.insta{
+  color: #A22CB6;
+}
+
+#linkedin{
+  display: inline-block;
+  margin-right: 40px;
+  font-size: 18px;
+}
+#twitter{
+  display: inline-block;
+    margin-right: 40px;
+    font-size: 18px;
+
+}
+#medium{
+  display: inline-block;
+    margin-right: 40px;
+    font-size: 18px;
+}
+#instagram{
+  display: inline-block;
+    margin-right: 40px;
+    font-size: 18px;
+}
+
+@media only screen
+and (max-width: 1000px)
+{
+
+  .main{
+  font-size: 30px;
+}
+
+.main-2{
+  font-size: 25px;
+}
+
+.center {
+  min-width: 250px;
+}
+  #linkedin{
+    display: inline-block;
+    margin-right: 20px;
+
+  }
+  #twitter{
+    display: inline-block;
+      margin-right: 20px;
+  }
+  #medium{
+    display: inline-block;
+      margin-right: 20px;
+  }
+  #instagram{
+    display: inline-block;
+      margin-right: 20px;
+  }
+
+
+}
+
+.copyright{
+  padding-bottom: 15px;
+ }
+.z-index {
+  z-index: 999;
+}
