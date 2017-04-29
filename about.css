@@ -18,21 +18,38 @@ nav ul a {
 }
 
 .cv {
-  color: #ec407a;
+  color: #000000;
   font-weight: 600;
+  text-decoration: underline;
 }
 
-.row {
+.diamond{
+  align-items: center;
+}
+
+.Discover{
+  color: #ff4081;
+}
+
+.Define{
+  color:#e040fb;
+}
+
+
+.Design{
+  color:#40c4ff;
+}
+
+.Deliver{
+color: #00e676;
+}
+
+.card{
   margin-bottom: 0px;
 }
-
-#photos{
-  margin-top: 20px;
-}
-
-
 .contact{
   display: inline-block;
+  margin-top: 20px;
 }
 
 .me{
@@ -115,20 +132,20 @@ and (max-width: 1000px)
 }
   #linkedin{
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 20px;
 
   }
   #twitter{
     display: inline-block;
-      margin-right: 10px;
+      margin-right: 20px;
   }
   #medium{
     display: inline-block;
-      margin-right: 10px;
+      margin-right: 20px;
   }
   #instagram{
     display: inline-block;
-      margin-right: 10px;
+      margin-right: 20px;
   }
 
 
