@@ -17,6 +17,15 @@ nav ul a {
   display: inline-block;
 }
 
+.cv {
+  color: #ec407a;
+  font-weight: 600;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
 #photos{
   margin-top: 20px;
 }
