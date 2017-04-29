@@ -17,7 +17,9 @@ nav ul a {
   display: inline-block;
 }
 
-
+#photos{
+  margin-top: 20px;
+}
 
 
 .contact{
