@@ -23,12 +23,12 @@ nav ul a {
 
 
 .main{
-weight: bold;
+font-weight: bold;
 color: #000000;
 }
 
 .main-2{
-  weight: bold;
+  font-weight: bold;
   color: #000000;
 }
 
@@ -57,25 +57,9 @@ div.center {
   color: #00BFA5;
 }
 
-.white-text{
-  font-size: 30px;
+.btn, .btn-large{
+  background-color:#f50057;
 }
-
-#white-text{
-  font-size: 14px;
-  color: white;
-}
-
-
-.link{
-  color:white;
-  font-size: 20px;
-}
-
-.card-panel{
-height: 180px;
-}
-
 .contact{
   display: inline-block;
 }
