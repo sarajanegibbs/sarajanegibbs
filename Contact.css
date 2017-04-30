@@ -1,0 +1,125 @@
+@media ( min-width: 980px ) {
+
+a.brand-logo{
+margin-left: 20px;
+
+
+}
+}
+
+
+nav ul a {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.contact{
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.me{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 50px;
+}
+
+.contact-intro{
+  font-size: 16px;
+}
+
+.title{
+  font-size: 20px;
+  font-weight: 600;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+
+}
+
+.social_links{
+  display: inline-block;
+}
+
+.linked{
+    color: #007AB6;
+}
+
+.twit{
+  color: #1DA1F2;
+}
+
+.med{
+  color: #00AB6C;
+}
+
+.insta{
+  color: #A22CB6;
+}
+
+#linkedin{
+  display: inline-block;
+  margin-right: 40px;
+  font-size: 18px;
+}
+#twitter{
+  display: inline-block;
+    margin-right: 40px;
+    font-size: 18px;
+
+}
+#medium{
+  display: inline-block;
+    margin-right: 40px;
+    font-size: 18px;
+}
+#instagram{
+  display: inline-block;
+    margin-right: 40px;
+    font-size: 18px;
+}
+
+@media only screen
+and (max-width: 1000px)
+{
+
+  .main{
+  font-size: 30px;
+}
+
+.main-2{
+  font-size: 25px;
+}
+
+.center {
+  min-width: 250px;
+}
+  #linkedin{
+    display: inline-block;
+    margin-right: 20px;
+
+  }
+  #twitter{
+    display: inline-block;
+      margin-right: 20px;
+  }
+  #medium{
+    display: inline-block;
+      margin-right: 20px;
+  }
+  #instagram{
+    display: inline-block;
+      margin-right: 20px;
+  }
+
+
+}
+
+.copyright{
+  padding-bottom: 15px;
+ }
+.z-index {
+  z-index: 999;
+}
