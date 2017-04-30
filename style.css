@@ -160,20 +160,19 @@ and (max-width: 1000px)
 }
   #linkedin{
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 15px;
 
   }
   #twitter{
     display: inline-block;
-      margin-right: 20px;
+      margin-right: 15px;
   }
   #medium{
     display: inline-block;
-      margin-right: 20px;
+      margin-right: 15px;
   }
   #instagram{
     display: inline-block;
-      margin-right: 20px;
   }
 
 
