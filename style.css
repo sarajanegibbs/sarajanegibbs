@@ -23,12 +23,12 @@ nav ul a {
 
 
 .main{
-font-weight: bold;
+weight: bold;
 color: #000000;
 }
 
 .main-2{
-  font-weight: bold;
+  weight: bold;
   color: #000000;
 }
 
@@ -57,9 +57,24 @@ div.center {
   color: #00BFA5;
 }
 
+.white-text{
+  font-size: 30px;
+}
+
+#white-text{
+  font-size: 14px;
+  color: white;
+}
+
 .btn, .btn-large{
   background-color:#f50057;
 }
+
+
+.card-panel{
+height: 80px;
+}
+
 .contact{
   display: inline-block;
 }
@@ -145,20 +160,20 @@ and (max-width: 1000px)
 }
   #linkedin{
     display: inline-block;
-    margin-right: 15px;
+    margin-right: 20px;
 
   }
   #twitter{
     display: inline-block;
-      margin-right: 10px;
+      margin-right: 20px;
   }
   #medium{
     display: inline-block;
-      margin-right: 10px;
+      margin-right: 20px;
   }
   #instagram{
     display: inline-block;
-      margin-right: 10px;
+      margin-right: 20px;
   }
 
 
