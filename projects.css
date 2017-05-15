@@ -60,6 +60,13 @@ a:hover {
 color: #FFD9A3;
 }
 
+#World{
+  display: inline-block;
+}
+
+#WCText{
+  display: inline-block;
+}
 
 #Generation{
   display: inline-block;
