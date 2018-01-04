@@ -60,6 +60,14 @@ a:hover {
 color: #FFD9A3;
 }
 
+#ICX4{
+  display: inline-block;
+}
+
+#ICX4Text{
+  display: inline-block;
+}
+
 #World{
   display: inline-block;
 }
